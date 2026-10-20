@@ -1,0 +1,6 @@
+../USBX/App/app_usbx_host.c:74:6:MX_USBX_Host_Init	64	static
+../USBX/App/app_usbx_host.c:183:6:MX_USB_Host_Init	16	static
+../USBX/App/app_usbx_host.c:237:7:usbx_app_thread_entry	16	static
+../USBX/App/app_usbx_host.c:296:6:ux_host_event_callback	32	static
+../USBX/App/app_usbx_host.c:358:6:ux_host_error_callback	24	static
+../USBX/App/app_usbx_host.c:403:6:USBH_DriverVBUS	16	static

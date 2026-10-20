@@ -1,0 +1,10 @@
+../App/CRSFRadio.c:136:13:Init	88	static
+../App/CRSFRadio.c:220:13:Loop	16	static
+../App/CRSFRadio.c:443:6:OnPacketIn	8	static
+../App/CRSFRadio.c:455:6:OnFlightMode	16	static
+../App/CRSFRadio.c:478:6:OnTimer	8	static
+../App/CRSFRadio.c:488:6:OnTxDone	8	static
+../App/CRSFRadio.c:496:6:OnRxDone	24	static
+../App/CRSFRadio.c:513:6:OnTxTimeout	4	static
+../App/CRSFRadio.c:520:6:OnRxTimeout	4	static
+../App/CRSFRadio.c:534:6:OnRxError	4	static

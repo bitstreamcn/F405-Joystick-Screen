@@ -1,0 +1,12 @@
+../App/Application.c:54:6:Init	16	static
+../App/Application.c:123:10:reserved	16	static
+../App/Application.c:128:6:Loop	72	static
+../App/Application.c:452:6:JumpToBootloader	32	static,ignoring_inline_asm
+../App/Application.c:491:6:Enter_DFU_With_IWDG	8	static
+../App/Application.c:510:6:cdc_acm_receive	16	static
+../App/Application.c:529:13:LogWrite	168	static
+../App/Application.c:551:6:LogI	16	static
+../App/Application.c:558:6:LogW	16	static
+../App/Application.c:565:6:LogE	16	static
+../App/Application.c:573:6:ui_worker	112	static
+../App/Application.c:757:6:ui	8	static
