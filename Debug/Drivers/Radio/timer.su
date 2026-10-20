@@ -1,7 +1,0 @@
-../Drivers/Radio/timer.c:22:6:TimerInit	16	static
-../Drivers/Radio/timer.c:34:10:TimerGetCurrentTime	8	static
-../Drivers/Radio/timer.c:41:10:TimerGetElapsedTime	24	static
-../Drivers/Radio/timer.c:63:6:TimerSetValue	24	static
-../Drivers/Radio/timer.c:70:6:TimerStop	16	static
-../Drivers/Radio/timer.c:80:6:TimerStart	16	static
-../Drivers/Radio/timer.c:94:6:HAL_TIM_PeriodElapsedCallback_X	16	static

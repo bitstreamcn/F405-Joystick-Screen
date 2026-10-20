@@ -1,4 +1,0 @@
-../USBX/App/ux_host_cdc_acm.c:80:6:cdc_acm_send_app_thread_entry	4
-../USBX/App/ux_host_cdc_acm.c:127:6:cdc_acm_recieve_app_thread_entry	10
-../USBX/App/ux_host_cdc_acm.c:248:6:cdc_acm_reception_callback	3
-../USBX/App/ux_host_cdc_acm.c:283:6:cdc_acm_send	6

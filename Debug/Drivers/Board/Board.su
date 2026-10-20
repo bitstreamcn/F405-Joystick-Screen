@@ -1,8 +1,0 @@
-../Drivers/Board/Board.c:42:6:board_init	4	static
-../Drivers/Board/Board.c:47:6:Radio_SPI_Callback	4	static
-../Drivers/Board/Board.c:81:19:Radio_Read_Reg	88	dynamic
-../Drivers/Board/Board.c:123:19:Radio_Write_Reg	88	dynamic
-../Drivers/Board/Board.c:165:6:HAL_SPI_TxRxCpltCallback	16	static
-../Drivers/Board/Board.c:173:6:printf_dma	16	static
-../Drivers/Board/Board.c:181:5:_write	32	static
-../Drivers/Board/Board.c:248:6:HAL_UART_TxCpltCallback	16	static

@@ -1,2 +1,0 @@
-../Middlewares/ST/usbx/common/usbx_host_classes/src/ux_host_class_hid_report_set.c:44:6:ux_host_class_hid_report_set_buffer_allocate	7
-../Middlewares/ST/usbx/common/usbx_host_classes/src/ux_host_class_hid_report_set.c:173:7:_ux_host_class_hid_report_set	7

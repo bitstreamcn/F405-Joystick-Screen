@@ -1,5 +1,0 @@
-../App/AdcToChannel.c:18:10:apply_dead_zone	5
-../App/AdcToChannel.c:37:10:apply_dead_zone2	5
-../App/AdcToChannel.c:61:10:moving_average_filter	3
-../App/AdcToChannel.c:74:10:map_adc_to_channel	3
-../App/AdcToChannel.c:91:10:process_adc_input	1
